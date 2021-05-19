@@ -1,0 +1,89 @@
+﻿@model Consuming_ASP.NET.Models.Questions
+
+@{
+    ViewBag.Title = "Create";
+}
+<div class="block" style=" margin: auto; margin-top:10%">
+    <h2 class="zootopia">Create</h2>
+
+    @using (Html.BeginForm("Create", "Quested"))
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal zootopia" style="color:black;">
+            <h4 style="text-align: center">Questions</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <div class="form-group">
+                <div class="control-label col-md-6" style="font-weight:bold; text-align:right">Category</div>
+                <div class="col-md-6">
+                    @Html.DropDownListFor(model => model.category, new SelectList(new string[] { "Science", "History", "Geography", "Entertainment", "Art", "Sports" }, "Science"), htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.category, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="control-label col-md-6" style="font-weight:bold; text-align:right">Type</div>
+                <div class="col-md-6">
+                    @Html.DropDownListFor(model => model.type, new SelectList(new string[] { "boolean", "multiple" }, "boolean"), htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.type, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="control-label col-md-6" style="font-weight:bold; text-align:right">Difficulty</div>
+                <div class="col-md-6">
+                    @Html.DropDownListFor(model => model.difficulty, new SelectList(new string[] { "easy", "medium", "hard" }, "easy"), htmlAttributes: new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.difficulty, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="control-label col-md-6" style="font-weight:bold; text-align:right">Question</div>
+                <div class="col-md-6">
+                    @Html.EditorFor(model => model.question, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.question, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="control-label col-md-6" style="font-weight: bold; text-align: right">Correct Answer</div>
+                <div class="col-md-6">
+                    @Html.EditorFor(model => model.correct_answer, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.correct_answer, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="control-label col-md-6" style="font-weight:bold; text-align:right">Incorrect Answer</div>
+                <div class="col-md-6">
+                    @Html.EditorFor(model => model.incorrect_answers[0], new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.incorrect_answers[0], "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="control-label col-md-6" style="font-weight:bold; text-align:right">Incorrect Answer</div>
+                <div class="col-md-6">
+                    @Html.EditorFor(model => model.incorrect_answers[1], new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.incorrect_answers[1], "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="control-label col-md-6" style="font-weight:bold; text-align:right">Incorrect Answer</div>
+                <div class="col-md-6">
+                    @Html.EditorFor(model => model.incorrect_answers[2], new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.incorrect_answers[2], "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-6 col-md-6">
+                    <input type="submit" value="Create" class="btn btn-default" style="color:black; border-color:black"/>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

@@ -1,0 +1,24 @@
+﻿@model int
+<head runat="server">
+    <link href="StyleSheet.css" rel="stylesheet" type="text/css" />
+</head>
+
+@{ ViewBag.Title = "Index"; }
+
+<div class="index_container" style="margin-top:10%">
+    <h1 class="zootopia" style="
+        text-align:center;
+        font-size: calc(4em + 4vw);
+        color: white;
+        text-shadow: 7px 10px 45px gray;">
+        GAMEOVER
+    </h1>
+    <p class="zootopia" style="
+        text-align:center;
+        font-size: calc(1em + 1vw);
+        color: white;
+        text-shadow: 7px 10px 45px gray;">You have done @Html.DisplayFor(model => model) points!</p>
+        <a href="@Url.Action("Question", "Quested", new { score = 0 })"><div class="btn zootopia index_div">Play Again</div></a>
+        <br />
+    </div>
+

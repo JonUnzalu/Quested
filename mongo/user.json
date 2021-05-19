@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "609abdfe29cf3285639aff8a"
+  },
+  "email": "Thefrikgametoli@gmail.com",
+  "highScore": 0,
+  "name": "Tokpary",
+  "nickname": "Tokpary",
+  "password": "1234",
+  "role": "Administrator",
+  "surname": "Tokpary",
+  "user_id": 1
+}]

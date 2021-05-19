@@ -1,0 +1,70 @@
+﻿
+@{ ViewBag.Title = "Question"; }
+
+@model Consuming_ASP.NET.Models.Questions
+
+<div class="question_container">
+    <div class="Row">
+
+
+        <div class="info"></div>
+
+
+        <div class="Column time">
+            <p id="secs" style="margin: auto; text-align: center;">
+                <script>
+
+                    var timeleft = 31000;
+                    // Run myfunc every second
+                    var myfunc = setInterval(function () {
+
+                        var now = new Date().getTime();
+                        timeleft -= 1000;
+
+                        // Calculating the seconds left
+                        var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
+
+                        // Result is output to the specific element
+                        document.getElementById("secs").innerHTML = seconds
+
+                        // Display the message when countdown is over
+                        if (timeleft < 0) {
+                            clearInterval(myfunc);
+                            var url = $("#RedirectTo").val();
+                            location.href = url;
+                            document.getElementById("secs").innerHTML = "Time out!";
+                        }
+                    }, 1000);</script>
+            </p>
+        </div>
+
+        @{
+            int score_sum = 0;
+            if (Model.difficulty == "easy")
+            {
+                score_sum = 1;
+            }
+            else if (Model.difficulty == "medium")
+            {
+                score_sum = 3;
+            }
+            else if (Model.difficulty == "hard")
+            {
+                score_sum = 5;
+            }
+        }
+        <div class="Column points">@Session["actualScore"]</div>
+
+
+    </div>
+    @Html.Hidden("RedirectTo", @Url.Action("Checked", "Quested", new { erantzuna = "$NOT_THE_SOLUTION$", question_id = Model.question_id, score = 0 }));
+    <div>
+        <div class="question">@Html.DisplayFor(model => model.question)</div>
+    </div>
+    <div>
+        <div class="question_row">
+            <a href="@Url.Action("Checked", "Quested", new { erantzuna = "True", question_id = Model.question_id, score = score_sum})"><div class="btn answer">True</div></a>
+            <a href="@Url.Action("Checked", "Quested", new { erantzuna = "False", question_id = Model.question_id, score = score_sum})"><div class="btn answer">False</div></a>
+        </div>
+    </div>
+</div>

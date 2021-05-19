@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Consuming_ASP.NET.Models.Questions>
+@{
+    ViewBag.Title = "Questions";
+}
+
+<h1 class="zootopia" style="
+        text-align:center;
+        font-size: calc(4em + 4vw);
+        color: white;
+        text-shadow: 7px 10px 45px gray;
+        margin: 5%;">
+    QUESTIONS
+</h1>
+
+
+<div class="tbl-header scrollbar" id="style-2">
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.category)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.difficulty)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.question)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.correct_answer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.incorrect_answers)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.available)
+            </th>
+        </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.category)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.difficulty)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.question)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.correct_answer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.incorrect_answers)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.available)
+            </td>
+        </tr>
+    }
+
+    </table>
+</div>

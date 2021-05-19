@@ -1,0 +1,29 @@
+﻿﻿@model IEnumerable<Consuming_ASP.NET.Models.HighScore>
+
+@{ ViewBag.Title = "Score"; }
+
+
+<div class="container row">
+    <h2 class="zootopia" style="margin:auto; text-align:center; color: white; font-size: 800%; text-shadow: 7px 10px 45px gray;">HighScores</h2>
+    <br />
+    <br />
+</div>
+
+@{int count = 1;}
+
+@foreach (var item in Model)
+{
+<div class="container row highschore-div">
+    <div class="container col-lg-2">
+        @count
+    </div>
+    <div class="container col-lg-8 zootopia" style="margin-bottom: 1%">
+        @Html.DisplayFor(modelItem => item.Nickname)
+    </div>
+    <div class="container col-lg-2">
+        @Html.DisplayFor(modelItem => item.Score)
+    </div>
+    @{count++;}
+</div>}
+
+

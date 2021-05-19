@@ -1,0 +1,21 @@
+﻿﻿
+<head runat="server">
+    <link href="StyleSheet.css" rel="stylesheet" type="text/css" />
+</head>
+@{ ViewBag.Title = "Index"; }
+
+<div class="indexGrande">
+    <div class="index_container">
+        <h1 class="zootopia" style="
+        text-align:center;
+        font-size: calc(4em + 4vw);
+        color: white;
+        text-shadow: 7px 10px 45px gray;">
+            QUESTED
+        </h1>
+        <a href="@Url.Action("Question", "Quested", new { score = 0 })"><div class="btn zootopia index_div">Play</div></a>
+        <br />
+        <a href="@Url.Action("Score", "Quested")"><div class="btn zootopia index_div">Highscores</div></a>
+    </div>
+
+</div>

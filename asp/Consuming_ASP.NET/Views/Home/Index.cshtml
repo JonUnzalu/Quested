@@ -1,0 +1,83 @@
+﻿@model IEnumerable<Consuming_ASP.NET.Models.Questions>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>QUESTED</h1>
+    <p class="lead">Quested is a trivia game with different categories, its is used with ASP.NET, that use Web applications using HTML, CSS and JavaScript.</p>
+    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Ikusi gehiago &raquo;</a></p>
+</div>
+
+<div class="row">
+
+</div>
+
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.question_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.category)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.type)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.difficulty)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.question)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.correct_answer)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.incorrect_answers)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.available)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.question_id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.category)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.difficulty)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.question)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.correct_answer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.incorrect_answers)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.available);
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+    }
+
+</table>

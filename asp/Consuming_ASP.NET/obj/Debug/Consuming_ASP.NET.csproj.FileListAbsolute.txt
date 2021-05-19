@@ -1,0 +1,708 @@
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\mongocrypt.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\snappy32.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\snappy64.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\libzstd.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Consuming_ASP.NET.dll.config
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Consuming_ASP.NET.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Consuming_ASP.NET.pdb
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\csc.exe
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\csc.exe.config
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\csc.rsp
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\csi.exe
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\csi.exe.config
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\csi.rsp
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.AppContext.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Console.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.IO.Compression.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Net.Http.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.ValueTuple.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\vbc.exe
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\vbc.exe.config
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\vbc.rsp
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\VBCSCompiler.exe
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Antlr3.Runtime.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\DnsClient.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.Options.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\MongoDB.Bson.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\MongoDB.Driver.Core.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\MongoDB.Driver.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\MongoDB.Libmongocrypt.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Newtonsoft.Json.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\SharpCompress.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Buffers.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.ComponentModel.Annotations.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Memory.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Net.Http.Json.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Numerics.Vectors.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Text.Encodings.Web.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Text.Json.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.ValueTuple.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Web.Helpers.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Web.Mvc.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Web.Optimization.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Web.Razor.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Web.WebPages.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Web.WebPages.Razor.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\WebGrease.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\DnsClient.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.Options.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\MongoDB.Bson.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\MongoDB.Driver.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\MongoDB.Driver.Core.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Buffers.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Memory.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Net.Http.Json.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Numerics.Vectors.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Text.Encodings.Web.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Text.Json.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.ValueTuple.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Web.Helpers.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Web.Mvc.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Web.Optimization.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Web.Razor.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Web.WebPages.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\System.Web.WebPages.Razor.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Newtonsoft.Json.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Antlr3.Runtime.pdb
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\es\System.Web.Helpers.resources.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\es\System.Web.Mvc.resources.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\es\System.Web.Optimization.resources.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\es\System.Web.Razor.resources.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\es\System.Web.WebPages.resources.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.csproj.CopyComplete
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.dll
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.pdb
+C:\Users\nichei.anatoli\Documents\Consuming_ASP.NET\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.csprojAssemblyReference.cache
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.csprojAssemblyReference.cache
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.pdb
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\mongocrypt.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\snappy32.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\snappy64.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\libzstd.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Consuming_ASP.NET.dll.config
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Consuming_ASP.NET.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Consuming_ASP.NET.pdb
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\csc.exe
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\csc.exe.config
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\csc.rsp
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\csi.exe
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\csi.exe.config
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\csi.rsp
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.AppContext.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Console.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.IO.Compression.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Net.Http.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.ValueTuple.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\vbc.exe
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\vbc.exe.config
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\vbc.rsp
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\VBCSCompiler.exe
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Antlr3.Runtime.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\DnsClient.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Options.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\MongoDB.Bson.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\MongoDB.Driver.Core.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\MongoDB.Driver.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\MongoDB.Libmongocrypt.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Newtonsoft.Json.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\SharpCompress.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Buffers.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.ComponentModel.Annotations.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Memory.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Net.Http.Json.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Numerics.Vectors.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Text.Encodings.Web.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Text.Json.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.ValueTuple.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Web.Helpers.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Web.Mvc.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Web.Optimization.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Web.Razor.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Web.WebPages.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Web.WebPages.Razor.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\WebGrease.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\DnsClient.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Options.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\MongoDB.Bson.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\MongoDB.Driver.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\MongoDB.Driver.Core.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Buffers.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Memory.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Net.Http.Json.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Numerics.Vectors.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Text.Encodings.Web.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Text.Json.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.ValueTuple.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Web.Helpers.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Web.Mvc.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Web.Optimization.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Web.Razor.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Web.WebPages.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\System.Web.WebPages.Razor.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Newtonsoft.Json.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Antlr3.Runtime.pdb
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\es\System.Web.Helpers.resources.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\es\System.Web.Mvc.resources.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\es\System.Web.Optimization.resources.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\es\System.Web.Razor.resources.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\es\System.Web.WebPages.resources.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\nichei.anatoli\Documents\GitHub\AndroidStudio\asp\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.csproj.CopyComplete
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\mongocrypt.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\snappy32.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\snappy64.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\libzstd.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Consuming_ASP.NET.dll.config
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Consuming_ASP.NET.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Consuming_ASP.NET.pdb
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\csc.exe
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\csc.exe.config
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\csc.rsp
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\csi.exe
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\csi.exe.config
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\csi.rsp
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.AppContext.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Console.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.IO.Compression.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Net.Http.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Net.Sockets.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.ValueTuple.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Xml.XPath.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\vbc.exe
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\vbc.exe.config
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\vbc.rsp
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\VBCSCompiler.exe
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Antlr3.Runtime.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\DnsClient.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Options.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\MongoDB.Bson.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\MongoDB.Driver.Core.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\MongoDB.Driver.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\MongoDB.Libmongocrypt.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Newtonsoft.Json.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\SharpCompress.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Buffers.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.ComponentModel.Annotations.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Memory.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Net.Http.Json.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Numerics.Vectors.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Text.Encodings.Web.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Text.Json.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.ValueTuple.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Web.Helpers.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Web.Mvc.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Web.Optimization.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Web.Razor.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Web.WebPages.Deployment.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Web.WebPages.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Web.WebPages.Razor.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\WebGrease.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\DnsClient.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Options.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\MongoDB.Bson.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\MongoDB.Driver.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\MongoDB.Driver.Core.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Buffers.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Memory.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Net.Http.Json.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Numerics.Vectors.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Text.Encodings.Web.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Text.Json.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.ValueTuple.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Web.Helpers.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Web.Mvc.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Web.Optimization.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Web.Razor.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Web.WebPages.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Web.WebPages.Deployment.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\System.Web.WebPages.Razor.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Newtonsoft.Json.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Antlr3.Runtime.pdb
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\es\System.Web.Helpers.resources.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\es\System.Web.Mvc.resources.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\es\System.Web.Optimization.resources.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\es\System.Web.Razor.resources.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\es\System.Web.WebPages.resources.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.csprojAssemblyReference.cache
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.csproj.CopyComplete
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.dll
+C:\Users\unzalu.jon\Documents\GitHub\rest-real\asp\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.pdb
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\mongocrypt.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\snappy32.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\snappy64.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\libzstd.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Consuming_ASP.NET.dll.config
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Consuming_ASP.NET.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Consuming_ASP.NET.pdb
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\csc.exe
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\csc.exe.config
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\csc.rsp
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\csi.exe
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\csi.exe.config
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\csi.rsp
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.AppContext.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Console.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.IO.Compression.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Net.Http.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Net.Sockets.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.ValueTuple.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\vbc.exe
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\vbc.exe.config
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\vbc.rsp
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\VBCSCompiler.exe
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Antlr3.Runtime.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\DnsClient.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Options.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\MongoDB.Bson.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\MongoDB.Driver.Core.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\MongoDB.Driver.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\MongoDB.Libmongocrypt.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Newtonsoft.Json.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\SharpCompress.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Buffers.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.ComponentModel.Annotations.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Memory.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Net.Http.Json.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Numerics.Vectors.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Text.Encodings.Web.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Text.Json.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.ValueTuple.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Web.Helpers.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Web.Mvc.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Web.Optimization.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Web.Razor.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Web.WebPages.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Web.WebPages.Razor.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\WebGrease.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\DnsClient.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Options.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\MongoDB.Bson.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\MongoDB.Driver.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\MongoDB.Driver.Core.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Buffers.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Memory.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Net.Http.Json.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Numerics.Vectors.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Text.Encodings.Web.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Text.Json.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.ValueTuple.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Web.Helpers.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Web.Mvc.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Web.Optimization.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Web.Razor.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Web.WebPages.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\System.Web.WebPages.Razor.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Newtonsoft.Json.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Antlr3.Runtime.pdb
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\es\System.Web.Helpers.resources.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\es\System.Web.Mvc.resources.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\es\System.Web.Optimization.resources.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\es\System.Web.Razor.resources.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\es\System.Web.WebPages.resources.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.csprojAssemblyReference.cache
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.csproj.CopyComplete
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.dll
+C:\Users\TheFr\Documents\GitHub\Adaptimize\Proyecto REAL\asp\Consuming_ASP.NET\obj\Debug\Consuming_ASP.NET.pdb

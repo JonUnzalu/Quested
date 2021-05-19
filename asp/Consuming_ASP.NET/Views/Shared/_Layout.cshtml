@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Quested</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
+    <link rel="icon" href="~/Content/images/icon.png">
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <script src="js/jquery.min.js"></script>
+    <script src="js/skel.min.js"></script>
+    <script src="js/skel-layers.min.js"></script>
+    <script src="js/init.js"></script>
+    <noscript>
+        <link rel="stylesheet" href="css/skel.css" />
+        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="css/style-xlarge.css" />
+    </noscript>
+
+</head>
+
+
+<body class="landing">
+    <nav class="navbar navbar-default navbar-fixed-top" id="RedMenu" style="background:none; border:none; ">
+        <div class="container-fluid">
+
+
+            <div class="collapse navbar-collapse" id="MainNavBar">
+                <ul class="nav navbar-nav">
+                    <li class="navigationLevel2">
+                        <a href="@Url.Action("Index", "Quested")"><img src="~/Content/images/trivia.png" style="width:60px; height:80px; margin-top: -10px;" /> <p class="quested_logo zootopia">QUESTED</p></a>
+                    </li>
+                </ul>
+                <ul class="nav navbar-nav navbar-right">
+                    @if ((int)Session["UserRole"] == 0) // not logged
+                    {
+                        <li class="navigationLevel2">
+                            <a href="@Url.Action("LoginForm", "Quested")"><div class="container col-lg-1 btn zootopia" style="font-size: 150%; width:auto;">Login</div></a>
+                        </li>
+                        <li class="navigationLevel2">
+                            <a href="@Url.Action("Register", "Quested")"><div class="container col-lg-1 btn zootopia" style="font-size: 150%; width:auto;">Register</div></a>
+                        </li>
+                    }
+                    else if ((int)Session["UserRole"] == 1) // logged as player
+                    {
+                        <li class="navigationLevel2">
+                            <a href="@Url.Action("LogOut", "Quested")"><div class="container col-lg-1 btn zootopia" style="font-size: 150%; width:auto;">Log out</div></a>
+                        </li>
+                    }
+                    else if ((int)Session["UserRole"] == 2) // logged as Admin
+                    {
+                        <li class="navigationLevel2">
+                            <a href="@Url.Action("CreateForm", "Quested")"><div class="container col-lg-1 btn zootopia" style="font-size: 150%; width:auto;">Insert Question</div></a>
+                        </li>
+                        <li class="navigationLevel2">
+                            <a href="@Url.Action("IkusGalderak", "Quested")"><div class="container col-lg-1 btn zootopia" style="font-size: 150%; width:auto;">See Questions</div></a>
+                        </li>
+                        <li class="navigationLevel2">
+                            <a href="@Url.Action("LogOut", "Quested")"><div class="container col-lg-1 btn zootopia" style="font-size: 150%; width:auto;">Log out</div></a>
+                        </li>
+                    }
+                </ul>
+
+            </div>
+            <!--Menu End Here-->
+        </div>
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+        <div class="element-align">
+            <footer>
+                <p style="margin-left:-333%">&copy; @DateTime.Now.Year - Quested</p>
+            </footer>
+        </div>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
